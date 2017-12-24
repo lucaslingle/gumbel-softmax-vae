@@ -1,0 +1,2 @@
+model_checkpoint_path: "vae-gumbelsoftmax-hidden500-latent20-classes10"
+all_model_checkpoint_paths: "vae-gumbelsoftmax-hidden500-latent20-classes10"
