@@ -1,2 +1,5 @@
 # gumbel-softmax-vae
-Unsupervised VAE using Gumbel-Softmax
+VAE using Gumbel-Softmax. 
+
+Currently supports unsupervised Gumbel-Softmax VAE. 
+I plan to add an implementation for a semisupervised Gumbel-Softmax VAE soon. 
